@@ -8,19 +8,21 @@
 **Email:** beksultan.sagnaev@gmail.com
 
 **Telegram:** @beksya
+
 [Github](https://github.com/beksultanweb)
+
 [LinkedIn](https://www.linkedin.com/in/beksultan-sagnaev-95226b221/)
-***
+**********
 **About myself**
 After finishing university I started my career as a marketer. I ran marketing budgets in different small and medium businesses in food delivery, education courses. My responsibilities was project management and ran Facebook, Google ads.
 I also worked on different websites in our companies. Then I fell in love with Web Development and programming and started my education.
-***
+**********
 **Skills**
 * HTML, CSS and its preprocessors
 * JS, React, Redux Toolkit
 * JQuerry, and some PHP
 * VS Code, Figma and Web design basics
-***
+**********
 **My experience in Web Dev**
 
 [Food Delivery](https://eatandfit.kz/)
@@ -30,13 +32,13 @@ I also worked on different websites in our companies. Then I fell in love with W
 [Small game and Poster generator](https://chooseyourpoco.kz/game/)
 
 [CRUD functional with React](http://frontend-mentor-product-feedback.vercel.app/)
-***
+**********
 **Courses**
 * [Udemy JS, React](https://www.udemy.com/user/yan-kovalenko-2/)
 * [RS School Frontend/JS Stage 0](https://rs.school)
 * learnjavascript.com
 * [nFactorial Incubator 2022](https://www.nfactorial.live/)
-***
+**********
 **Code example**
 *The task is to implement the function which takes an array containing the names of people that like an item. It must return the display text as shown in the examples:*
 ```
@@ -58,7 +60,7 @@ function likes(names) {
   }
 }
 ```
-***
+**********
 **Languages**
 * Russian - Native
 * English - Pre Intermediate (currently studying Intermediate)
