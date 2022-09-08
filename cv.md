@@ -25,6 +25,7 @@ I also worked on different websites in our companies. Then I fell in love with W
 * JQuerry, and some PHP
 * VS Code, Figma and Web design basics
 **********
+
 **My experience in Web Dev**
 
 [Food Delivery](https://eatandfit.kz/)
